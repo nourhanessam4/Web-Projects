@@ -1,0 +1,51 @@
+#blog{
+#one{
+    background-image: url(h1.jpg);
+    width: 150px;
+    height: 150px;
+    background-position: top ;
+    background-size: cover;
+}
+
+h2{
+    color: rgb(74, 53, 24);
+}
+
+P{
+    color: rgb(73, 53, 25);
+}
+
+#two{
+    background-image: url(bake.png);
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    background-size: contain;
+    background-position: left;
+    width: 150px;
+    height: 40px;
+}
+
+.one{
+    background-image: url(f.png);
+    width: 100px;
+    height: 100px;
+    background-position: top ;
+    background-size: cover;
+}
+
+.two{
+    background-image: url(g.png);
+    width: 100px;
+    height: 100px;
+    background-position: top ;
+    background-size: cover;
+
+}
+footer{
+    color: blue;
+}
+
+li{
+    color: antiquewhite;
+}
+}

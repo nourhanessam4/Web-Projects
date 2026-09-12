@@ -1,0 +1,21 @@
+#contact{
+    .one{
+    background-image: url(i.png);
+    width: 100px;
+    height: 100px;
+    background-position: top ;
+    background-size: cover;
+}
+
+.two{
+    background-image: url(t.png);
+    width: 100px;
+    height: 100px;
+    background-position: top ;
+    background-size: cover;
+
+}
+li{
+    color: antiquewhite;
+}
+}

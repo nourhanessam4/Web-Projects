@@ -1,0 +1,32 @@
+#gallery{
+
+p{
+    width: 100px;
+    height: 95px;
+    background-image: url(b4.png);
+    background-position: top;
+    background-size: cover;
+}
+
+#one{
+    width: 130px;
+    height: 100px;
+    background-image: url(b5.png);
+    background-position: top;
+    background-size: cover;
+}
+
+#two{
+    width: 200px;
+    height: 150px;
+    background-image: url(v1.jpg);
+    background-position: top;
+    background-size: cover;
+}
+h3{
+    color: rgb(41, 24, 2);
+}
+li{
+    color:rgb(41, 24, 2);
+}
+}
