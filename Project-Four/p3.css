@@ -1,0 +1,134 @@
+body{
+    background-attachment: scroll;
+    background-color: rgb(26, 26, 26);
+}
+header{
+    background-color:#323232;
+}
+
+.div{
+    text-align: center;
+}
+
+.title{
+    color: #d94b3b;
+    margin: 0px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 35px;
+}
+
+a{
+    color: rgb(225, 233, 252);
+    text-decoration: none;
+
+  font-family: "Playwrite AU QLD", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+ul{
+    margin: 0px;
+    padding: 3px;
+    list-style: none;
+    display: inline-flex;
+    gap: 40px;
+}
+
+
+.img{
+  background-image: url(g2.jpeg);
+  background-size: cover;   
+  background-position: center; 
+  background-repeat: no-repeat;
+  width: 100%;                 
+  height: 500px; 
+  text-align: center;
+}
+
+.h1{
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+
+    display:inline-block;
+    color: rgb(49, 32, 14);
+    text-align: center;
+    position: relative;
+    bottom: -200px;
+    background-color: rgba(245, 235, 232, 0.5);
+    margin: 0px;
+}
+
+.programs {
+  margin-top: 200px; 
+  padding: 60px 20px 80px;
+}
+
+.titles {
+  color: #d94b3b; 
+  margin: 0 0 30px;
+  font-size: 20px;
+  font-family: "Playwrite AU QLD", cursive;
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: #1d1d1d;
+  padding: 18px;
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 6px 0 rgba(0, 0, 0, 0.811);
+  text-align: left;
+  min-height: 110px;
+}
+
+.card h3 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  color: #ff5b4a; 
+}
+
+.card p {
+  margin: 0;
+  font-size: 14px;
+  color: white;
+ 
+}
+
+.contact {
+  margin-top: 60px;
+}
+
+.contact-title {
+  color: #d94b3b;
+  font-size: 16px;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+.contact-info {
+  font-size: 13px;
+  color: white;
+  text-align: center;
+}
+
+.footer {
+  background: #222;
+  color: #9d9d9d;
+  text-align: center;
+  padding: 12px 10px;
+  font-size: 13px;
+}
+
+
